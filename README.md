@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/cifar10_tutorial.ipynb#scrollTo=zsKU0uK43-WT
